@@ -1,0 +1,17 @@
+{
+  "type" : "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+  "#": {
+    "item": "goofyahhservermod:muddy_sands"
+    }
+  },
+    "pattern":[
+      "##",
+      "##"
+    ],
+    "result": {
+      "item": "goofyahhservermod:muddy_sands_bricks",
+      "count": 1
+    }
+}

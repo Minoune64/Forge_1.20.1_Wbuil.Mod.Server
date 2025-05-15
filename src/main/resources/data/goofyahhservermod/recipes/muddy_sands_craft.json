@@ -1,0 +1,20 @@
+{
+  "type" : "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern":[
+    "sm",
+    "ms"
+  ],
+  "key": {
+    "s": {
+      "item": "minecraft:sand"
+    },
+    "m": {
+      "item": "minecraft:mud"
+    }
+  },
+  "result": {
+    "count" : 4,
+    "item": "goofyahhservermod:muddy_sands"
+  }
+}
